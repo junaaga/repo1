@@ -1,0 +1,64 @@
+body {
+	background: #d1d0cd;
+}
+
+.InventoryTable {
+	  box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
+              0 2px 2px rgba(0,0,0,0.12), 
+              0 4px 4px rgba(0,0,0,0.12), 
+              0 8px 8px rgba(0,0,0,0.12),
+              0 16px 16px rgba(0,0,0,0.12);
+}
+
+.jumbotron {
+	 box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
+              0 2px 2px rgba(0,0,0,0.12), 
+              0 4px 4px rgba(0,0,0,0.12), 
+              0 8px 8px rgba(0,0,0,0.12),
+              0 16px 16px rgba(0,0,0,0.12);
+    
+}
+#logoutButtom {
+	padding-top: 10%;
+	padding-left:22%;
+}
+
+#AddButtom {
+	  width: 78px;
+    margin-left: 22%;
+}
+	
+
+.DeleteandUpdateButton {
+	 padding: 1px;
+	 width: 100px;
+}
+
+
+#addShoe{
+margin-top: 10%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 12%),
+     0 2px 2px rgb(0 0 0 / 12%),
+      0 4px 4px rgb(0 0 0 / 12%),
+       0 8px 8px rgb(0 0 0 / 12%),
+        0 16px 16px rgb(0 0 0 / 12%);
+    background: lightgray;
+    border-radius: 25px;
+    padding: 25px;
+}
+.ImgForLogoutButton {
+	margin-top:520px;
+}
+
+ @media (min-width:1600px){
+ .ImgForLogoutButton {
+	margin-top:660px;
+	margin-left: 6%;
+}  
+.ImgForAddButton{
+	Height:68px;
+}
+#AddButtom {
+	width: 90px
+}
+    }
